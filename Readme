@@ -1,0 +1,3 @@
+python调用matlab函数--使用Anaconda环境中的python
+
+sudo update-alternatives --install /usr/bin/python python /home/anaconda3/envs/torch2022/bin/python 100
